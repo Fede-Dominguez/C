@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1604281917 source:d:\user\fede\documentos\c\bingofinal\bingofinal\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carton.h"
+
+1604281916 d:\user\fede\documentos\c\bingofinal\bingofinal\carton.h
+
+1604281916 source:d:\user\fede\documentos\c\bingofinal\bingofinal\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+
+1604281915 d:\user\fede\documentos\c\bingofinal\bingofinal\jugador.h
+
+1604271101 source:d:\user\fede\documentos\c\bingofinal\bingofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+
+1604281916 source:f:\fede\documents\c\bingofinal\bingofinal\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+
+1604281916 f:\fede\documents\c\bingofinal\bingofinal\carton.h
+
+1604281915 f:\fede\documents\c\bingofinal\bingofinal\jugador.h
+
+1604271101 source:f:\fede\documents\c\bingofinal\bingofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+
+1604322652 source:f:\fede\documents\c\bingofinal\bingofinal\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carton.h"
+
+1604322652 source:f:\users\fede\documents\unla\c\bingofinal\bingofinal\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carton.h"
+
+1604281916 f:\users\fede\documents\unla\c\bingofinal\bingofinal\carton.h
+
+1604281916 source:f:\users\fede\documents\unla\c\bingofinal\bingofinal\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+
+1604281915 f:\users\fede\documents\unla\c\bingofinal\bingofinal\jugador.h
+
+1604271101 source:f:\users\fede\documents\unla\c\bingofinal\bingofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+

@@ -1,0 +1,28 @@
+---------PUNTUACIONES TOTALES---------
+
+Jugador:
+90
+Maquina:
+10
+
+---------PUNTUACIONES TOTALES---------
+
+Jugador:
+100
+Maquina:
+0
+
+---------PUNTUACIONES TOTALES---------
+
+Jugador:
+90
+Maquina:
+10
+
+---------PUNTUACIONES TOTALES---------
+
+Jugador:
+30
+Maquina:
+70
+
